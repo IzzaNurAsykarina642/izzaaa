@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\bin\Debug\net7.0\izzanurasy.exe
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\bin\Debug\net7.0\izzanurasy.deps.json
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\bin\Debug\net7.0\izzanurasy.runtimeconfig.json
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\bin\Debug\net7.0\izzanurasy.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\bin\Debug\net7.0\izzanurasy.pdb
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.AssemblyInfo.cs
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\refint\izzanurasy.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.pdb
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\izzanurasy.genruntimeconfig.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanurasy\obj\Debug\net7.0\ref\izzanurasy.dll
